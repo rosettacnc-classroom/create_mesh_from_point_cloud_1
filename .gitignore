@@ -1,0 +1,8 @@
+# Windows shell
+*.db
+
+# Generic
+*.bak
+
+# Python file and folders
+__pycache__/
